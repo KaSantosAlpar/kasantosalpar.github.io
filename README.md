@@ -20,8 +20,8 @@
 ### 🧠 [Módulo 01 - JavaScript Básico](./01-javascript-basico/)
 * **Projetos:** Bhaskara, Jogo de Adivinhação, Lista de Compras e CRUD.
 
-### 🎨 [Módulo 02 - HTML, CSS e Bootstrap] (./02-html-css-bootstrap/)
-Destaque: ☕ Tech & Coffee - Landing page completa com design verde pastel.
+### 🎨 [Módulo 02 - HTML, CSS e Bootstrap](./02-html-css-bootstrap/)
+**Destaque:** ☕ Tech & Coffee - Landing page completa com design verde pastel.
 
 Novo: 📇 Cartão de Perfil Profissional - Apresentação pessoal utilizando conceitos avançados de CSS (Flexbox e Hover effects).
 
